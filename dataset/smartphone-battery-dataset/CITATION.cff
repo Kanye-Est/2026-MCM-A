@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Smartphone Battery Consumption Dataset
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - family-names: Zhang
+    given-names: Xiwen
+year: 2026
+version: 1.0.0
+date-released: 2026-02-01
+license: CC0-1.0
+repository-code: https://github.com/zhangxiwen952-star/smartphone-battery-dataset
+url: https://github.com/zhangxiwen952-star/smartphone-battery-dataset
+

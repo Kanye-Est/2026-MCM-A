@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# LaTeX
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.bbl
+*.blg
+*.toc
+
+# Large files / backups
+MCM_copy/
+*.npz
+
+# OS
+.DS_Store
+Thumbs.db
